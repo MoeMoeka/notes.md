@@ -4,4 +4,5 @@
 - PR = ask to merge
 - GitHub = website for Git repos
 - TEST
+- PersonB
 - PersonA
